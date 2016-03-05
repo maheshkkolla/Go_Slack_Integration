@@ -4,7 +4,7 @@ Go Slack Integration
 
 ## What is it ? ##
 
-	Go Slack Integration is script that written in Javascript which will pull the build status from Go CI and push that messages to the slack channel.
+Go Slack Integration is script that written in Javascript which will pull the build status from Go CI and push that messages to the slack channel
 
 ## What are the requirements ? ##
 	
