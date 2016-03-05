@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node go_slack_integration.js"
   },
   "dependencies": {
     "xml2js": "*",
