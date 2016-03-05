@@ -1,0 +1,14 @@
+{
+  "name": "Go_Slack",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xml2js": "*",
+    "slack-node": "*",
+    "mocha": "*",
+    "domain": "*"
+  }  
+}

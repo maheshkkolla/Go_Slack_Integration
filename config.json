@@ -1,0 +1,14 @@
+{
+	"go" : {
+		"host" : "YOUR_MINGLE_HOST",
+		"path" : "/go/cctray.xml",
+		"port" : "MINGLE_PORT",
+		"username": "MINGLE_USERNAME",
+		"password": "PASSWORD"
+	},
+	"slack" : {
+		"webhook": "SLACK_WEB_HOOK",
+		"channel": "SLACK_CHANNEL",
+		"userName": "SLACK_USERNAME"
+	}
+}
